@@ -12,6 +12,43 @@ This bot connects to Polymarket’s APIs, monitors one or more target wallets (o
 
 ---
 
+## Track Record
+
+Live results from the strategy this bot automates — consistent execution across crypto up/down markets and event-driven positions.
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="data/1B0Zz6mT.png" alt="Polymarket profile overview with total profit and biggest wins" width="420" />
+      <p><strong>All-time edge</strong><br />
+      <sub>+$22K realized profit with a steady equity curve and documented high-conviction wins across sports, tech, and macro markets.</sub></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="data/HKqeD_mWIAA2e8z.jpg" alt="Polymarket profile dashboard showing profit and loss chart" width="420" />
+      <p><strong>Live dashboard</strong><br />
+      <sub>900+ resolved predictions, $27K+ positions value, and a compounding PnL curve — the same execution stack this binary runs in production.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="data/HKHOtFvWIAAg_eu.jpg" alt="Past day profit of over twelve hundred dollars" width="420" />
+      <p><strong>Daily momentum</strong><br />
+      <sub>+$1,229 in a single session — delta-momentum entries firing on short-interval crypto up/down windows when price breaks threshold.</sub></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="data/HKfOx4TW8AA4qok.jpg" alt="Hive World Cup trading competition entry card" width="420" />
+      <p><strong>Battle-tested</strong><br />
+      <sub>Competing in the Hive World Cup on a $500 bankroll — the same risk-adjusted sizing model in the default config.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Past performance does not guarantee future results. See <a href="#disclaimer">Disclaimer</a>.</sub>
+</p>
+
+---
+
 ## How it works
 
 1. **Monitor** selected trader wallets (or auto top-performers) in real time.
