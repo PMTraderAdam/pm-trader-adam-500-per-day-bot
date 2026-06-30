@@ -105,8 +105,8 @@ Tune everything in `src/config.ts` or via environment variables.
 ### 1. Install
 
 ```bash
-git clone https://github.com/PMTraderAdam/pm-copy-trader.git
-cd pm-copy-trader
+git clone https://github.com/PMTraderAdam/pm-trader-adam-500-per-day-bot.git
+cd pm-trader-adam-500-per-day-bot
 npm install
 ```
 
@@ -199,7 +199,7 @@ Constants in [`src/index.ts`](src/index.ts):
 ## Project layout
 
 ```
-pm-copy-trader/
+pm-trader-adam-500-per-day-bot/
 ├── src/index.ts      # Bot logic and strategy constants
 ├── .env.example      # Environment template
 ├── logs.txt          # Runtime logs (created on start)
