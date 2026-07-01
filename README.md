@@ -3,7 +3,7 @@
 > **Open-source TypeScript bot** that automatically mirrors top Polymarket traders in real time.  
 > Follow profitable wallets across any market (crypto, elections, sports, macro, etc.).
 
-**Repository:** [github.com/PMTraderAdam/pm-trader-adam-500-per-day-bot](https://github.com/PMTraderAdam/pm-trader-adam-500-per-day-bot)
+**Repository:** [github.com/PMTraderAdam/500-per-day-trading-bot](https://github.com/PMTraderAdam/500-per-day-trading-bot).
 **Author:** [@PMTraderAdam](https://github.com/PMTraderAdam)
 
 This bot connects to Polymarket’s APIs, monitors one or more target wallets (or a dynamic leaderboard), detects their trades, and replicates them in your wallet with customizable sizing, risk limits, and filters.
